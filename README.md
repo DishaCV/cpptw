@@ -1,5 +1,5 @@
-#Main
+# Main
 - This is a point under main.
 
-##Submain
+## Submain
 - This is a point under submain.
